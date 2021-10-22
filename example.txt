@@ -1,0 +1,28 @@
+import *imports
+
+def atk(): # this bit is needed as it is what function the program calls in to run it
+    print("attacking...")
+    
+if args are needed there are two ways to do this
+
+way one:
+
+from mod.system.*file*.*program* import *function to run*
+
+def atk():
+    *arg = input("enter agr: ")
+    
+    *if needed here* = *function*(*arg*)
+    *if needed
+    if *if needed here* == False:
+      break
+    else:
+      pass
+      
+ way two:
+ 
+ def atk():
+   *arg* = input("enter arg: ")
+   *function run*(arg)
+   
+ way two is if you want to call it localy and not from another module (can be slower)
