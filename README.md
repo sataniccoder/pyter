@@ -14,5 +14,5 @@ it also feturs the possibilty for user to add there own tools
 
 # example on how to add module
 1) select where is belong (eg: a simple scanner goes in basic)
-2) then write your file eg example.py
+2) then write your file eg example.txt
 3) test the module and you have it!
