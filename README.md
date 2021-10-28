@@ -1,11 +1,11 @@
-# mitm_py
-a man in the middle python script and more!
+# pyter
+a python based exploit tool with lot's of diffrent attacks and tools!
 
 # install
     pip3 install scapy, flask
     git clone https://github.com/buffkermitisagod/mitm_py.git
-    cd mitm_py
-    python3 mitm.py
+    cd pyter
+    python3 pyter.py
 
 # info
 it has built in tools such as a network scanner and social media log in page phishing pages
